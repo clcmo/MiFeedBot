@@ -10,7 +10,7 @@ numpy = "^1.22.2"
 feedparser = "^6.0.8"
 requests = "^2.27.1"
 py-dateutil = "^2.2"
-Flask = "^2.0.3"
+Flask = "^2.3.2"
 
 [tool.poetry.dev-dependencies]
 
